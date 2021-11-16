@@ -2,6 +2,8 @@
 
 Writing cheatsheet 📃
 
+## Definitions
+
 ## Articles
 
 ### `a` and `an`
@@ -12,20 +14,19 @@ Do not think of it as 1.
 
 ### `the`
 
-Think of it as a pointer for what audiences know.
-
+Think of it as a pointer for what the audience knows.
 
 ### ` `
 
-Names containing a general noun needs `the` pointer.
+Names containing a general noun need `the` pointer.
 
 Cannot contain or point to abstraction.
 
 ### `s`
 
-Use plural when speaking about a countable thing in general.
+Use plurals referring generally to a countable thing.
 
-## Punctuation
+## Punctuations
 
 ### `.`
 
