@@ -1,6 +1,6 @@
 # Writing
 
-Writing cheatsheet 📃
+Writing cheatsheet :page_with_curl:
 
 ## Definitions
 
@@ -47,3 +47,5 @@ X, Y, {or|and} Z
 `CLAUSE`; related `CLAUSE`
 
 `CLAUSE`; `COORDIANTE`, CLAUSE.
+
+## `and`, `or`, and `nor`
