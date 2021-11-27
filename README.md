@@ -1,4 +1,4 @@
-# Writing
+# writing
 
 Writing cheatsheet :page_with_curl:
 
