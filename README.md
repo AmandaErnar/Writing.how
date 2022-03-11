@@ -2,50 +2,52 @@
 
 Writing cheatsheet :page_with_curl:
 
-## Definitions
-
-`NOUN`
-
-`CLAUSE`
-
-`COORDIANTE`
-
 ## Articles
 
-### `a`
+### a
 
-Think of it as a container for its `NOUN`.
+Think of it as a container for its NOUN.
 
 Do not think of it as 1.
 
 Use `an` if the following word starts with a vowel sound.
 
-### `the`
+### the
 
-Think of it as a pointer for chosing among the `NOUN`s the audience knows.
+Think of it as a pointer for chosing among the NOUNs the audience knows.
 
-### `(no article)`
+### (no article)
 
-Names without a general part do not need a container or pointer, but ones with general part needs `the` pointer for specification.
+Names without a general part do not need a container or pointer, but ones with general part needs the pointer for specification.
 
 Cannot contain or point to abstraction or things that are difficult to count.
 
-### `s`
+### s
 
 Use plurals when referring generally about a countable thing.
 
 ## Punctuation
 
-`CLAUSE`.
+### .
 
-`CALUSE`, `COORDIANTE` `CLAUSE`.
+CLAUSE`.`
 
-X, Y, {or|and} Z
+### ,
 
-`CLAUSE`: `NOUN`...
+CALUSE`,` COORDIANTE CLAUSE.
 
-`CLAUSE`; related `CLAUSE`
+X`,` Y`,` {or|and} Z
 
-`CLAUSE`; `COORDIANTE`, CLAUSE.
+### ;
 
-## `and`, `or`, and `nor`
+CLAUSE`;` related CLAUSE
+
+CLAUSE`;` COORDIANTE, CLAUSE.
+
+### :
+
+CLAUSE`:` NOUN...
+
+### -
+
+## and, or, and nor
