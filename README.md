@@ -1,7 +1,3 @@
-# HowToWrite
-
-🖋
-
 ## Articles
 
 ### a
