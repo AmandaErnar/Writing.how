@@ -12,10 +12,8 @@ Write to generate ideas. Edit to clarify them.
 - Space out your paragraphs
 
 ## Don't
-- Use "ing"
-- Use "that"
-- Use "really" or "very"
-- Sound smart
+- Use "ing", "that", "really" or "very"
+- Try to sound smart
 
 ## Tool
 - Power Thesaurus (thesaurus)
