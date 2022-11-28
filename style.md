@@ -1,11 +1,5 @@
 Write to generate ideas. Edit to clarify them.
 
-## Don't
-- Use "ing"
-- Use "that"
-- Use "really" or "very"
-- Sound smart
-
 ## Do
 - Use "you" and "your" to make writing feel personal
 - Use active voice
@@ -16,6 +10,12 @@ Write to generate ideas. Edit to clarify them.
 - Write below 5th grade level
 - Make many paragraphs
 - Space out your paragraphs
+
+## Don't
+- Use "ing"
+- Use "that"
+- Use "really" or "very"
+- Sound smart
 
 ## Tool
 - Power Thesaurus (thesaurus)
