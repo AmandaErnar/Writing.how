@@ -1,6 +1,7 @@
 Write to generate ideas. Edit to clarify them.
 
 ## Do
+
 - Use "you" and "your" to make writing feel personal
 - Use active voice
 - Use simple words
@@ -12,10 +13,12 @@ Write to generate ideas. Edit to clarify them.
 - Space out your paragraphs
 
 ## Don't
+
 - Use "ing", "that", "really" or "very"
 - Try to sound smart
 
 ## Tool
+
 - Power Thesaurus (thesaurus)
 - Lose the Very (thesaurus)
 - RemNote (note taking and linking ideas)
