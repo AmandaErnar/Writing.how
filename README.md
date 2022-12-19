@@ -46,20 +46,29 @@ CLAUSE`:` NOUN...
 
 ### -
 
-## and, or, and nor
+## Subject
+
+blond = male
+
+blonde = female
+
+brunet = male
+
+brunette = female
+
+fiance = male
+
+fiancee = female
+
+who = he/she
+
+whom = him/her
+
+## Verbs
 
 Verbs agree with the closest subject;
 
-- Neither the men nor the woman (SINGULAR) is a robot.
-- Neither the woman nor the men (PLURAL) are robots.
+Neither the men nor the woman (SINGULAR) is a robot.
 
-An initial negative propagates to all enumerated elements;
+Neither the woman nor the men (PLURAL) are robots.
 
-- I do not like hot dogs, ketchup, or mustard.
-- I will not eat chocolate cake for breakfast or even consider eating cheesecake for breakfast.
-
-"Neither" and "nor" must form parallelism, where "nor" prefixes each parallel block;
-
-- I like neither hot dogs (NOUN) nor ketchup (NOUN) nor mustard (NOUN).
-- (I do not like to sleep (VERB) early.) Nor do I like to wake up (VERB) at 5 AM.
-- I will not eat (VERB) chocolate cake for breakfast nor even consider (VERB) eating cheesecake for breakfast.

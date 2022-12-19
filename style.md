@@ -1,26 +1,28 @@
-Write to generate ideas. Edit to clarify them.
+Write at a fifth grade level
 
-## Do
+Cut out what you can
 
-- Use "you" and "your" to make writing feel personal
-- Use active voice
-- Use simple words
-- Use specific numbers and language
-- Use 80% short sentences and 20% long ones
-- Use contradictions in your writing to make it feel conversational
-- Write below 5th grade level
-- Make many paragraphs
-- Space out your paragraphs
+Refer to reader
 
-## Don't
+Use active voice
 
-- Use "ing", "that", "really" or "very"
-- Try to sound smart
+Add contradictions
 
-## Tool
+Add space between paragraphs
 
-- Power Thesaurus (thesaurus)
-- Lose the Very (thesaurus)
-- RemNote (note taking and linking ideas)
-- Notion (linking ideas)
-- Pro Writing Aid (writing suggestions)
+Use words that add to the mood
+
+Use uncommon figures of speech
+
+Simplify jargons
+
+## Fiction
+
+Give dialogue a purpose
+
+Start story in the middle of events
+
+Prioritize characters
+
+Have characters follow an [archetype](https://conorneill.com/2018/04/21/understanding-personality-the-12-jungian-archetypes/)
+
