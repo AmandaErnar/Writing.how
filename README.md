@@ -71,4 +71,3 @@ Verbs agree with the closest subject;
 Neither the men nor the woman (SINGULAR) is a robot.
 
 Neither the woman nor the men (PLURAL) are robots.
-

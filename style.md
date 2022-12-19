@@ -25,4 +25,3 @@ Start story in the middle of events
 Prioritize characters
 
 Have characters follow an [archetype](https://conorneill.com/2018/04/21/understanding-personality-the-12-jungian-archetypes/)
-
